@@ -1,0 +1,4 @@
+/* This file is deprecated - using app/globals.css instead */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
