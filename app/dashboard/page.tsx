@@ -11,7 +11,7 @@ const DashboardHeader = memo(function DashboardHeader() {
         <div className="size-9 rounded-xl bg-gradient-to-tr from-blue-600 to-blue-400 flex items-center justify-center text-white font-bold shadow-lg">
           ن
         </div>
-        <span className="font-bold text-lg text-blue-600">نجاحي</span>
+        <span className="font-bold text-lg text-blue-600">نجحي</span>
       </div>
       <button className="p-2 text-gray-600 dark:text-gray-300 bg-white/50 dark:bg-white/10 rounded-xl hover:bg-white/60 dark:hover:bg-white/20 transition-colors">
         <span className="text-xl">☰</span>

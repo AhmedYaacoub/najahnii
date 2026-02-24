@@ -21,7 +21,7 @@ const tajawal = Tajawal({
 export const metadata: Metadata = {
   title: 'Najahni - منصة نجّحني التعليمية',
   description: 'منصة تعليمية تمنحك الطاقة للتفوق. اكتشف متعة التعلم مع أفضل الأساتذة ومحتوى تفاعلي يضمن لك النجاح والتميز.',
-  generator: 'v0.app',
+  generator: 'ahmed',
 }
 
 export default function RootLayout({

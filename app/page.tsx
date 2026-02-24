@@ -62,7 +62,7 @@ export default function Home() {
               <h2 className="text-5xl lg:text-7xl font-extrabold text-text-main leading-[1.1] tracking-tight text-balance font-display">
                 حضّر للبكالوريا <br />
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-electric-blue to-blue-400 relative inline-block">
-                  بثقة هدوء
+                  بثقة و هدوء
                   <svg className="absolute w-full h-3 -bottom-1 right-0 text-yellow-300 opacity-80" fill="none" viewBox="0 0 200 9" xmlns="http://www.w3.org/2000/svg">
                     <path d="M2.00025 6.99997C2.00025 6.99997 45.4268 2.30002 99.4268 2.30002C153.427 2.30002 198.001 7.49997 198.001 7.49997" stroke="currentColor" strokeLinecap="round" strokeWidth="3" />
                   </svg>
